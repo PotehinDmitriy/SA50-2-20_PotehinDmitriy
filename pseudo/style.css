@@ -1,0 +1,74 @@
+.css {
+    display: flex;
+    justify-content: center;
+}
+.button1 {
+    height: 50px;
+    width:  200px;
+    background: linear-gradient(108.62deg, #5D5FEF 20.49%, #7879F1 46.52%, #A5A6F6 78.55%, #A5A6F6 78.55%);
+    border-radius: 25.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
+.phrase1 {
+    width: 85px;
+    height: 29px;
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color:#000000;
+}
+.button2 {
+    height: 50px;
+    width:  200px;
+    background: #A5A6F6;
+    border-radius: 25.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin: 10 px;
+    transition-duration: 2s;
+}
+.button2:hover{
+    background-color: purple;
+    width: 100px;
+    height: 200px;
+}
+.phrase2 {
+    width: 68px;
+    height: 29px;
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color:#000000;
+}
+.button3 {
+    width: 185px;
+    height: 51px;
+    background: #5D5FEF;
+    border-radius: 25.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin: 10px
+}
+.button3:active {
+    background: red;
+    border-radius: 25.5px;
+}
+.phrase3 {
+    width: 68px;
+    height: 29px;
+    font-family: 'Sen';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    color:#000000; 
+}
