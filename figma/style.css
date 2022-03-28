@@ -1,0 +1,129 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+.ccs {
+    display: flex;
+    justify-content: start;
+}
+.color1 {
+    height: 40px;
+    width: 40px;
+    border-radius: 3px;
+    background-color: #333333;
+    margin: 10px;
+}
+.color2 {
+    height: 40px;
+    width: 40px;
+    border-radius: 3px;
+    background-color: #4F4F4F;
+    margin: 10px;
+}
+.color3 {
+    height: 40px;
+    width: 40px;
+    border-radius: 3px;
+    background-color: #828282;
+    margin: 10px;
+}
+.color4 {
+    height: 40px;
+    width: 40px;
+    border-radius: 3px;
+    background-color: #bdbdbd;
+    margin: 10px;
+}
+.color5 {
+    height: 40px;
+    width: 40px;
+    border-radius: 3px;
+    background-color: #e0e0e0;
+    margin: 10px;
+}
+.color6 {
+    height: 40px;
+    width: 40px;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    margin: 10px;
+}
+.color7 {
+    height: 40px;
+    width: 40px;
+    border-radius: 3px;
+    background-color: #eb5757;
+    margin: 10px;
+}
+.color8 {
+    height: 40px;
+    width: 40px;
+    border-radius: 3px;
+    background-color: #f2994a;
+    margin: 10px;
+}
+.color9 {
+    height: 40px;
+    width: 40px;
+    border-radius: 3px;
+    background-color: #f2c94c;
+    margin: 10px;
+}
+.color10 {
+    height: 40px;
+    width: 40px;
+    border-radius: 3px;
+    background-color: #219653;
+    margin: 10px;
+}
+.color11 {
+    height: 40px;
+    width: 40px;
+    border-radius: 3px;
+    background-color: #27ae60;
+    margin: 10px;
+}
+.color12 {
+    height: 40px;
+    width: 40px;
+    border-radius: 3px;
+    background-color: #6fcf97;
+    margin: 10px;
+}
+.color13 {
+    height: 40px;
+    width: 40px;
+    border-radius: 3px;
+    background-color: #2f80ed;
+    margin: 10px;
+}
+.color14 {
+    height: 40px;
+    width: 40px;
+    border-radius: 3px;
+    background-color: #2d9cdb;
+    margin: 10px;
+}
+.color15 {
+    height: 40px;
+    width: 40px;
+    border-radius: 3px;
+    background-color: #56ccf2;
+    margin: 10px;
+}
+.color16 {
+    height: 40px;
+    width: 40px;
+    border-radius: 3px;
+    background-color: #9b51e0;
+    margin: 10px;
+}
+.color17 {
+    height: 40px;
+    width: 40px;
+    border-radius: 3px;
+    background-color: #bb6bdb;
+    margin: 10px;
+}
